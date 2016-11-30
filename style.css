@@ -1,0 +1,73 @@
+#appbody {
+  max-width: 50em;
+  margin: auto;
+  font-family: monospace;
+  font-size: 16pt;
+}
+#appbody button {
+  background: none;
+  color: darkorange;
+  border: 2px solid darkorange;
+  margin: 0.4em;
+  font-size: 16pt;
+  font-family: monospace;
+}
+#appbody button:hover {
+  background-color: darkorange;
+  color: white;
+}
+#appbody button.unavailable {
+  visibility: hidden;
+}
+#appbody svg {
+  font-family: monospace;
+  font-size: 15pt;
+}
+#appbody #appcontainer {
+  display: flex;
+  flex-shrink: 0;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+#appbody div#controls {
+  width: 30%;
+  float: right;
+  top: 5%;
+}
+#appbody div#controls #district-alignments {
+  list-style: none;
+}
+#appbody div#controls #district-alignments li {
+  width: 5em;
+  margin: 0.1em 0.2em;
+  padding: 0.1 0.3em;
+  font-size: 15pt;
+  font-family: monospace;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+#appbody div#controls #district-alignments li button {
+  right: 100%;
+  margin: 0;
+  padding: 0em 0.1em;
+  border-style: none;
+  font-size: 80%;
+  color: black;
+}
+#appbody div#controls #district-alignments li button:hover {
+  color: white;
+  background-color: inherit;
+}
+#appbody div#controls #district-alignments .aligned-none {
+  background-color: darkgrey;
+}
+#appbody div#controls #district-alignments .aligned-red {
+  background-color: #FFBC00;
+}
+#appbody div#controls #district-alignments .aligned-blue {
+  background-color: #0023A3;
+}
+#appbody div#map {
+  width: 70%;
+}
