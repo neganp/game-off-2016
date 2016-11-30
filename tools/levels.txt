@@ -1,0 +1,60 @@
+this is a game about drawing electoral districts
+Rrr
+rr
+
+
+the side that has the most votes in a district wins it
+ r
+rBb
+ r
+
+
+the side that holds the most districts holds power
+Bbb r
+b   rr
+rrRrB
+  bbr
+
+if you draw the map, you can even win if you're outnumbered
+ rrBr
+ rbBbb
+brRbb
+ b
+
+
+a fraction of the vote, all of the power
+   rb
+ bBrB
+ bbrb
+rBbbbB
+rbrBbb
+   rrr
+
+
+now make sure your side wins
+       b
+bb b bbr
+bb BrbbB
+rBrrrBbr
+bbR  bbr
+ rrbrBBb
+
+
+who knows what the other side would draw
+       r
+ bB bbrR
+ bbrrrbb
+rBb   Bb
+bbBbrrrb
+RbrRbbbb
+
+
+well played, this is the last one
+ rbRr
+  b r
+ br bBbb
+bBRbrrbB
+rrrbbBbr
+ rrBbbBb
+ Brbrrr
+ bbbb

@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Mander</title>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1"
+              name="viewport">
+        <link type="text/css" rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="appbody">
+        </div>
+
+        <script type="text/javascript" src="app.js"></script>
+        <script type="text/javascript">
+         var targetNode = document.getElementById("appbody");
+         var app = Elm.Main.embed(targetNode);
+        </script>
+    </body>
+
+</html>
