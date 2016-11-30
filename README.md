@@ -1,8 +1,6 @@
 # Mander
 
-<a href="https://neganp.github.io/game-off-2016/">
-## PLAY
-</a>
+<a href="https://neganp.github.io/game-off-2016/">Play</a>
 
 A game about [hacking democracy](https://en.wikipedia.org/wiki/Gerrymandering).
 
